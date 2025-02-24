@@ -52,6 +52,7 @@ The **Lunge Workout iOS App** is built with **SwiftUI** and interacts with the b
    ```sh
    git clone https://github.com/tish978/lunge-frontend-ios.git
    cd lunge-frontend-ios
+   pod install
    ```
 
 2. **Open in Xcode**  
