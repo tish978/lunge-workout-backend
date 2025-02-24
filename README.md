@@ -57,7 +57,7 @@ The **Lunge Workout iOS App** is built with **SwiftUI** and interacts with the b
 
 2. **Open in Xcode**  
    ```sh
-   open LungeWorkout.xcodeproj
+   open LungeWorkout.xcworkspace
    ```
 
 3. **Run the App**  
