@@ -20,7 +20,7 @@ The Admin Dashboard is a **React.js** app for managing workouts.
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/tish978/lunge-frontend-dashboard.git
-   cd lunge-admin-dashboard
+   cd lunge-frontend-dashboard
    ```
 
 2. **Install dependencies**  
